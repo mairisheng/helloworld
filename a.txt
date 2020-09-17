@@ -1,8 +1,7 @@
-<<<<<<< HEAD
-this is from linux
-
-;
-哈哈哈哈我又回来了!!!
-=======
 这是b1分支
->>>>>>> b1
+这是b1分支
+这是从b1分支写进来的
+this is from linux
+哈哈哈哈我又回来了!!!
+这是b1分支
+this is last line add by mairishengmerge
